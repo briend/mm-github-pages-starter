@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Brien Dieterle"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profilePic.jpg"
   bio    : "Artist and Illustrator"
   links:
     - label: "Website"
